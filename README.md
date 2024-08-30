@@ -1,5 +1,5 @@
 # nodejs-openai
-### Chat with OpenAI
+### Chat with OpenAI to generate SQL Queries (text-to-sql-query)
 ### Server
 Node js Express
 ### Client
